@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.btn{
+  padding: 10px;
+  color:white;
+  background-color: rgb(35, 103, 182);
+  
+}

@@ -1,2 +1,2 @@
-# react-createportal_modal-exampl
+# react-modal-createportal-exampl
 Created with CodeSandbox
